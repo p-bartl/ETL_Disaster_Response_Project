@@ -10,7 +10,7 @@ Building my first web app. Data provided by Figure Eight
 4. ETL Skript
 5. ML Skript
 6. Putting it all together
-7. Plot Examples
+7. Plot Example
 8. Classification Example
 9. Licensing, Authors, and Acknowledgements
 
@@ -69,5 +69,14 @@ Contains a pipeline that
 
 3. Go to http://0.0.0.0:3001/
 
-### 7. Plot Examples
+### 7. Plot Example
 
+![alt text](https://github.com/pascal-bartl/ETL_Disaster_Response_Project/blob/master/1.png?raw=true)
+
+### 8. Classification Example
+
+![alt text](https://github.com/pascal-bartl/ETL_Disaster_Response_Project/blob/master/2.png?raw=true)
+
+### 9. Licensing, Authors, and Acknowledgements
+
+There are no references to other websites, books, and other resources. I did enjoy working on this project. Thanks UDACITY!
